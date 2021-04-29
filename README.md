@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi there , it's WeiMinal👋
+## 📧 How to contact me ?
+**WeChat :** WeiMinal
 <!--
 **WeiMinal/WeiMinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
