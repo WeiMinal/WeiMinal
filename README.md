@@ -1,7 +1,8 @@
 # Hi there , it's WeiMinal👋
 ## 📧 How to contact me ?
-**Telegram :** WeiMinal
-**WeChat :** WeiMinal
+- **Telegram:** [@WeiMinal](https://t.me/WeiMinal)
+
+- **WeChat:** [@WeiMinal]
 
 *****
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiMinal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
