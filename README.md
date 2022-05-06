@@ -1,5 +1,6 @@
 # Hi there , it's WeiMinal👋
 ## 📧 How to contact me ?
+**Telegram :** WeiMinal
 **WeChat :** WeiMinal
 
 *****
