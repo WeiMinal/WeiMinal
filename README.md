@@ -1,6 +1,6 @@
 <!-- 你好啊~ -->
 <h2 align="center">
-  𝙃𝙚𝙡𝙡𝙤 , 𝙬𝙤𝙧𝙡𝙙
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h2>
 <div>
@@ -8,7 +8,7 @@
 <!-- 联系方式 -->
   <div align="center">
   
-  ### 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 💬
+  ### 𝙃𝙚𝙡𝙡𝙤 , 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 💬
   
   <a href="https://t.me/WeiMinal" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/Telegram-5cf.svg?logo=telegram&logoColor=white"></a>
   <a href="https://github.com/WeiMinal/weiminal.github.io/blob/main/weiminal-wechat.jpg?raw=true" target="_blank"><img alt="wechat" src="https://img.shields.io/badge/Wechat-5fcd72.svg?logo=wechat&logoColor=white" /></a>
