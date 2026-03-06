@@ -14,11 +14,6 @@
    <a href="https://space.bilibili.com/35606358/" target="_blank">
      <img alt="wechat" src="https://img.shields.io/badge/Bilibili-ff69b4.svg?logo=bilibili&logoColor=white" /></a>
   </div>
-  
-  <!-- 仓库信息 -->
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeiMinal&layout=compact&count_private=true&show_icons=true&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-  </div>
 
 </div>
 
